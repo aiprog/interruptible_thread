@@ -1,1 +1,1 @@
-# interruptible_thread
+# Interruptible thread
